@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @furkanbaydogan
 - 👀 I’m interested in computer science and programming
-- 🌱 I’m currently learning python and english
-- 💞️ I’m looking to collaborate on algorithm, programming and python
-- 📫 How to reach me frknbydgn@outlook.com
+- 🌱 I'm computer engineering student
+- 💞️ I’m looking to collaborate on algorithm and programming
+- 📫 How to reach me frknbydgn@gmail.com
 
 <!---
 furkanbaydogan/furkanbaydogan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
